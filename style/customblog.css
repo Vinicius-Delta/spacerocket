@@ -1,0 +1,116 @@
+/* Common */
+#fg-widget-56430a5aedd3befcda37f9e72 {
+  width: 100% !important;
+  border-color: none !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-sc-snippet {
+  color: white !important;
+  font-size: 1em !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-sc-date {
+  padding: 0.8em 0 !important;
+  font-size: 0.8em !important;
+  color: white !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-source {
+  font-size: 1em !important;
+  color: white !important;
+}
+
+/* Widget specific */
+#fg-widget-56430a5aedd3befcda37f9e72 {
+  height: 100% !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72:not(.uw-transparent) {
+  background-color: none !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-text, #fg-widget-56430a5aedd3befcda37f9e72 .uw-source-divider, #fg-widget-56430a5aedd3befcda37f9e72 .uw-social {
+  color: white !important;
+  padding-bottom: 0.6em !important;
+  font-weight: bold !important;
+  font-size: 1.2;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-sc-mask {
+  margin: 14px !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-w-header {
+  padding-left: 14px !important;
+  padding-right: 14px !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-sc-divider {
+  margin-bottom: 1em !important;
+  padding-bottom: 1em !important;
+  border-color: #d0d0d0 !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-imgcont2 {
+  width: 100% !important;
+  min-height: 180px;
+  height: 20vh;
+  max-height: 300px;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-headline .uw-text {}
+
+/* Widget groups */
+#fg-widget-56430a5aedd3befcda37f9e72:not(.uw-transparent) .uw-w-header, #fg-widget-56430a5aedd3befcda37f9e72:not(.uw-transparent) .uw-w-branding {
+  background-color: non !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-w-header>span {
+  font-size: 0.8em !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-w-header span {
+  color: none !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72 .uw-w-header .uw-logo {
+  height: 0 !important;
+}
+
+/*extra*/
+.uw-w-branding {
+  visibility: hidden !important;
+}
+
+.uw-sc-controls, .uw-up .uw-down {
+  visibility: hidden !important;
+}
+
+#fg-widget-56430a5aedd3befcda37f9e72{
+  background-color: none !important;
+  background-size: 0 !important;
+}
+.feedgrabbr_widget{
+  padding-bottom: 10% !important;
+}
+
+.uw-card2-row{
+flex-direction: column;
+}
+
+.uw-scroller-text{
+  padding-top: 1em;
+}
+.uw-sc-cardcont{
+  display: flex;
+}
+
+@media (max-width:920px) {
+.uw-sc-cardcont{
+
+  flex-wrap: wrap;
+}
+}
+.uw-scroller .uw-card2{
+  padding-right: 2em;
+}
